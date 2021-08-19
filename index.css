@@ -1,0 +1,33 @@
+body{
+    color: blue;
+    background-color: rgb(186, 202, 186);
+}
+.kl {
+    color: chocolate;
+}
+.Dv {
+    color: rgb(30, 144, 210);
+}
+.Ms {
+    color: rgb(70, 24, 143);
+}
+.Rb {
+    color: rgb(189, 30, 210);
+}
+.Ta {
+    color: rgb(210, 30, 141);
+}
+.Td {
+    color: rgb(27, 17, 10);
+}
+.Hr {
+    color: rgb(108, 37, 155);
+}
+.one{
+    background-color: darkseagreen;
+    width: 500px;
+    padding: 10px;
+}
+.one1{
+    font-size: 30px;
+}
